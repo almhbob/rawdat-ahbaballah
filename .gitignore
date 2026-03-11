@@ -1,0 +1,48 @@
+# Dependencies
+  node_modules/
+  .pnp
+  .pnp.js
+
+  # Expo
+  .expo/
+  dist/
+  web-build/
+  expo-env.d.ts
+
+  # Build outputs
+  server_dist/
+  android/
+  ios/
+
+  # EAS
+  eas-cli-*.tgz
+  expo-eas-build-job-*.tgz
+  /tmp/project*.tar.gz
+
+  # Local env files
+  .env
+  .env.local
+  .env.*.local
+  google-play-key.json
+
+  # Logs
+  *.log
+  npm-debug.log*
+
+  # OS
+  .DS_Store
+  Thumbs.db
+
+  # IDE
+  .vscode/
+  .idea/
+  *.suo
+  *.ntvs*
+
+  # Replit
+  .replit
+  replit.nix
+  .upm/
+  .breakpoints
+  .local/
+  
